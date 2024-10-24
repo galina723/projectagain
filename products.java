@@ -3,6 +3,10 @@ package com.example.demo.model;
 import org.hibernate.annotations.CreationTimestamp;
 import org.hibernate.annotations.GenericGenerator;
 
+import java.awt.color.*;
+import java.io.Serializable;
+import java.applet.*;
+
 import java.sql.Date;
 import java.time.LocalDateTime;
 
